@@ -1,7 +1,16 @@
 # CodeAnimation
 Here, you can know how to code for 3D animation and models by using Blender "Script" from beginning...
-language: Python
-APP: Blender
-Blender is needed to download to view the files
-Please download files and open them in Blender
-Now, you will learn another way to make animation -- coding!
+## How to run?
+1. Open / Download Blender
+2. Go to "Scripting" tab
+3. Copy the code
+4. Run
+   
+## Tools
+- **Language:** Python  
+- **Application:** Blender
+
+> Blender is required to run and view the scripts in this repository.
+
+Now you can explore a new way to create 3D animation — **by coding**!!!
+
